@@ -1,0 +1,15 @@
+.modo_claro{
+    color: black;
+    background-color: red;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.modo_escuro{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 15px;
+
+}
+
